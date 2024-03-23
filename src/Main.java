@@ -15,6 +15,6 @@ public class Main {
         checkLeapYear(2000);
         checkLeapYear(20100);
         //task 2
-        System.out.println("task 2");
+
     }
 }
